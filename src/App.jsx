@@ -9,6 +9,7 @@ function App() {
     const handleSubmit = () => {
         alert(inputText)
         setShortenedUrl(inputText)
+        // asdasdasdasd
     }
 
     const onValueChange = (event) => {
